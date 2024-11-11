@@ -18,12 +18,6 @@
 </span>
 <!--======= COPY ABOVE CODE AS HEADER, THEN FOLLOW WITH RESUME CONTENT IN MARKDOWN FORMAT =========-->
 
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
-
-<span style="float:right;padding:6px"> 
-  Cantabria, España | +34 673 941 591 | tonicollssb99@gmail.com | https://www.linkedin.com/in/antoniocollssb/
-</span>
-
 # Antonio Coll de San Simón Benito
 
 ## Perfil Profesional
